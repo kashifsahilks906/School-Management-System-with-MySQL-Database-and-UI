@@ -71,8 +71,8 @@ The School Management System (SMS) is a comprehensive web-based application desi
 ## UI Pictures
 <div align="center">
   <img src="https://github.com/kashifsahilks906/School-Management-System-with-MySQL-Database-and-UI/assets/112303807/ef5d0c8e-33e1-4fd4-a2a3-6f7d9593d28d" alt="UI Images" width="800">
-  <img src="https://github.com/kashifsahilks906/School-Management-System-with-MySQL-Database-and-UI/assets/112303807/46957bbd-275c-4f5b-8ac8-31f833df35b6" alt="UI Images" width="800">
-  <img src="https://github.com/kashifsahilks906/School-Management-System-with-MySQL-Database-and-UI/assets/112303807/46957bbd-275c-4f5b-8ac8-31f833df35b6" alt="UI Images" width="800">
+  <img src="https://github.com/kashifsahilks906/School-Management-System-with-MySQL-Database-and-UI/assets/112303807/062ba272-fb27-4025-95a5-72e52a53a501" alt="UI Images" width="800">
+  <img src="https://github.com/kashifsahilks906/School-Management-System-with-MySQL-Database-and-UI/assets/112303807/ad293b5a-e095-4dfa-aa48-a3f535ab7754" alt="UI Images" width="800">
   <img src="https://github.com/kashifsahilks906/School-Management-System-with-MySQL-Database-and-UI/assets/112303807/a5e0eca7-c74c-4d5c-a83e-40ea75f3191d" alt="UI Images" width="800">
   <img src="https://github.com/kashifsahilks906/School-Management-System-with-MySQL-Database-and-UI/assets/112303807/fbc8680a-162d-4f82-8a3d-4bb4a5689ee5" alt="UI Images" width="800">
 </div>
